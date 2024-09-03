@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweightle55%2Fhit-counter&count_bg=%233DC859&title_bg=%237C7070&icon=linux.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,122,30&height=300&section=header&text=weightle55%27s%20GitHub&fontSize=45&fontColor=1e313b&animation=fadeIn&desc=Time%20is%20money%2C%20friend%21)
 
 
