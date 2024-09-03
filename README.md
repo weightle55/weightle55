@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,122,30&height=300&section=header&text=weightle55%27s%20GitHub&fontSize=45&fontColor=1e313b&animation=fadeIn&desc=Time%20is%20money%2C%20friend%21)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weightle55&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weightle55&layout=donut&theme=cobalt)
